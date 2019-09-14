@@ -1,0 +1,27 @@
+{
+  "name": "js-image-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgee258/js-image-slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgee258/js-image-slider/issues"
+  },
+  "homepage": "https://github.com/rgee258/js-image-slider#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2",
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
